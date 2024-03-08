@@ -21,14 +21,8 @@
 ![](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Question%20Mark.png" alt="Red Question Mark" width="25" height="25" /> Sobre mi 
-Mi inicio en el mundo laboral fue marcado por un desafío crucial: la
-herramienta de gestión de la empresa no satisfacía varias
-necesidades esenciales. 
+Actualmente me encuentro trabajando como desarollador junior full-stack, habiendo desarrollado hasta el momento para mi empresa:
+- Una api rest con Express.js para una base de datos SQL Server.
+- Una intranet con Front-end hecho en React y back con Node.js, typescript.
 
-Junto a mi compañero, respondimos
-rápidamente y desarrollamos una intranet y una API REST. Esta
-solución no solo abordó las deficiencias existentes, sino que también
-optimizó el sistema de trabajo general. 
-
-Logramos todo esto en un tiempo récord, demostrando habilidades en innovación, adaptación
-técnica y trabajo en equipo.
+Este github contendra todos los proyectos personales y profesionales (siempre que se puedan compartir) para que sea de acceso publico.
