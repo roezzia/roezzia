@@ -26,3 +26,5 @@ Actualmente me encuentro trabajando como desarollador junior full-stack, habiend
 - Una intranet con Front-end hecho en React y back con Node.js, typescript.
 
 Este github contendra todos los proyectos personales y profesionales (siempre que se puedan compartir) para que sea de acceso publico.
+
+⚠ Aun no hay subido ningun proyecto ya que lo ire haciendo progresivamente... ⚠
